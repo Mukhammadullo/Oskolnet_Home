@@ -5,10 +5,10 @@ function App() {
 
   return (
     <>
+
       {/* header */}
       <header className='flex m-[2%] justify-between items-center'>
         <img src='src/assets/Group 31 (2).png' className='w-[100px] h-[60px]' />
-
         <ul className='md:flex hidden'>
           <li className='m-[10px] text-[#263057] font-medium'>Тарифы для дома</li>
           <li className='m-[10px] text-[#263057] font-medium'>Тарифы для бизнеса</li>
@@ -104,7 +104,7 @@ function App() {
       </section>
 
 
-      {/* sec5 */}
+      {/* section5 */}
       <section className='m-[3%] bg-[#263057] p-[20px] rounded-[12px] md:flex justify-evenly items-center'>
         <h1 className='font-bold text-[white] m-[10px] text-[36px] '>Проверить скорость интернета</h1>
         <div>
@@ -114,7 +114,7 @@ function App() {
 
 
 
-      {/* sec6 */}
+      {/* section6 */}
       <section className='m-[3%]'>
         <h1 className='font-bold text-center text-[#263057] text-[46px]'>О компании</h1>
 
@@ -143,7 +143,7 @@ function App() {
 
       </section>
 
-      {/* sec7 */}
+      {/* section7 */}
 
       <section>
         <h1 className='font-bold text-center bg-[#FFFFFF] text-[40px]'>Новости</h1>
@@ -178,7 +178,7 @@ function App() {
       </section>
 
 
-      {/* se8 */}
+      {/* section8 */}
 
       <section className='m-[3%]'>
         <h1 className='font-bold text-center bg-[#FFFFFF] text-[40px]'>Документы</h1>
@@ -205,7 +205,7 @@ function App() {
       </section>
 
 
-      {/* sec9 */}
+      {/* section9 */}
 
       <section className='bg-[#F1F2F4] p-[50px]'>
         <h1 className='font-bold text-center  bg-[#F1F2F4] text-[40px]'>Партнеры</h1>
@@ -227,7 +227,7 @@ function App() {
       </section>
 
 
-      {/* se10 */}
+      {/* section10 */}
       <section className='bg-[#263057] p-[50px]'>
 
 
